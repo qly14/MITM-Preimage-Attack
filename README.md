@@ -3,4 +3,4 @@ The different folders are:
 - `Article_Experiment`: the result and the experimental code in the article.
 - `newlibs`: the libraries used by the different tools. 
 - `Improved attack on Ascon-XOF.pdf`: An improved MITM preimage attack on 4-round Ascon-XOF.
-- `quick-version.pdf`: A quick revision paper of our submission #26 Meet-in-the-Middle Preimage Attacks on Sponge-based Hashing
+- `quick-version.pdf`: A quick revision paper of our submission #26 Conditional Meet-in-the-Middle Preimage Attacks on Sponge-based Hashing 
