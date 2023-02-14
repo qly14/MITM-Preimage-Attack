@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: mitmsearch.solutiontotikz.SolutionToTikz
-Class-Path: ../newlibs/jackson-annotations-2.11.0.jar ../newlibs/jackson-core-2.11.0.jar ../newlibs/jackson-databind-2.11.0.jar ../newlibs/picocli-4.3.2.jar ../newlibs/javatuples-1.2.jar
-
